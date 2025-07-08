@@ -1,0 +1,7 @@
+ffmpeg/
+spotdl_venv/
+__pycache__/
+*.pyc
+*.log
+*.zip
+.DS_Store

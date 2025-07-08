@@ -1,0 +1,2 @@
+VENV_PYTHON=C:\Users\Kags\Desktop\DJDownloader\spotdl_venv\Scripts\python.exe
+FFMPEG_BIN=C:\Users\Kags\Desktop\DJDownloader\ffmpeg\ffmpeg-7.1.1-essentials_build\bin
